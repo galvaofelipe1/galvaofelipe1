@@ -12,7 +12,7 @@
 <!--<img align="right" height="100px" width="250px" alt="GIF" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />-->
 
 
-<p align="center"> <samp> Civil Engineer and data enthusiast   </p>
+<p align="center"> <samp> Civil Engineer and derivatives trader   </p>
   
 
 
